@@ -1,3 +1,3 @@
-# challanging_bot
+# challenging_bot
 
 Repository to develop wiki for Challanging Bot Project.
